@@ -1,2 +1,2 @@
-# XCMS_Backend
-Backend de L'application XCMS en Django
+# XCSM_Backend
+Backend de L'application XCSM en Django
