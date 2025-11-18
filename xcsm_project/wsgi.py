@@ -1,5 +1,5 @@
 """
-WSGI config for xcms_project project.
+WSGI config for xcsm_project project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
